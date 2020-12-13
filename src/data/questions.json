@@ -1,0 +1,48 @@
+[
+  {
+    "id": "q01",
+    "text": "Question 1",
+    "answers": [
+      {
+        "id": "q01a01",
+        "text": "answer 1"
+      },
+      {
+        "id": "q01a02",
+        "text": "answer 2"
+      },
+      {
+        "id": "q01a03",
+        "text": "answer 3"
+      }
+    ]
+  },
+  {
+    "id": "q02",
+    "text": "Question 2",
+    "answers": [
+      {
+        "id": "q02a01",
+        "text": "answer 1"
+      },
+      {
+        "id": "q02a02",
+        "text": "answer 2"
+      }
+    ]
+  },
+  {
+    "id": "q03",
+    "text": "Question 3",
+    "answers": [
+      {
+        "id": "q03a01",
+        "text": "answer 1"
+      },
+      {
+        "id": "q03a02",
+        "text": "answer 2"
+      }
+    ]
+  }
+]

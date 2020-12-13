@@ -1,0 +1,275 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home component should fetch and display the questions 1`] = `
+<RCTScrollView>
+  <View>
+    <Text>
+      Render 
+      12:00:00 GMT+0000 (Greenwich Mean Time)
+    </Text>
+    <View
+      style={
+        Object {
+          "borderColor": "blue",
+          "borderWidth": 1,
+          "marginTop": 12,
+          "padding": 12,
+        }
+      }
+      testID="q01"
+    >
+      <Text>
+        Render 
+        12:00:00 GMT+0000 (Greenwich Mean Time)
+      </Text>
+      <Text
+        style={
+          Object {
+            "fontWeight": "bold",
+            "marginTop": 12,
+          }
+        }
+      >
+        Question 1
+      </Text>
+      <Text
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={false}
+        testID="q01a01"
+      >
+        answer 1
+         
+        1578830400000
+      </Text>
+      <Text
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={false}
+        testID="q01a02"
+      >
+        answer 2
+         
+        1578830400000
+      </Text>
+      <Text
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={false}
+        testID="q01a03"
+      >
+        answer 3
+         
+        1578830400000
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "borderColor": "blue",
+          "borderWidth": 1,
+          "marginTop": 12,
+          "padding": 12,
+        }
+      }
+      testID="q02"
+    >
+      <Text>
+        Render 
+        12:00:00 GMT+0000 (Greenwich Mean Time)
+      </Text>
+      <Text
+        style={
+          Object {
+            "fontWeight": "bold",
+            "marginTop": 12,
+          }
+        }
+      >
+        Question 2
+      </Text>
+      <Text
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={false}
+        testID="q02a01"
+      >
+        answer 1
+         
+        1578830400000
+      </Text>
+      <Text
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={false}
+        testID="q02a02"
+      >
+        answer 2
+         
+        1578830400000
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "borderColor": "blue",
+          "borderWidth": 1,
+          "marginTop": 12,
+          "padding": 12,
+        }
+      }
+      testID="q03"
+    >
+      <Text>
+        Render 
+        12:00:00 GMT+0000 (Greenwich Mean Time)
+      </Text>
+      <Text
+        style={
+          Object {
+            "fontWeight": "bold",
+            "marginTop": 12,
+          }
+        }
+      >
+        Question 3
+      </Text>
+      <Text
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={false}
+        testID="q03a01"
+      >
+        answer 1
+         
+        1578830400000
+      </Text>
+      <Text
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={false}
+        testID="q03a02"
+      >
+        answer 2
+         
+        1578830400000
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "borderColor": "lightblue",
+          "borderWidth": 1,
+          "justifyContent": "center",
+          "marginTop": 20,
+        }
+      }
+    >
+      <Text>
+        Render 
+        12:00:00 GMT+0000 (Greenwich Mean Time)
+      </Text>
+      <View
+        accessibilityRole="button"
+        accessibilityState={
+          Object {
+            "disabled": true,
+          }
+        }
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID="submit"
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Object {},
+            ]
+          }
+        >
+          <Text
+            disabled={true}
+            style={
+              Array [
+                Object {
+                  "color": "#007AFF",
+                  "fontSize": 18,
+                  "margin": 8,
+                  "textAlign": "center",
+                },
+                Object {
+                  "color": "#cdcdcd",
+                },
+              ]
+            }
+          >
+            Submit
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
